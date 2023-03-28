@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ymounika30/ReactJS-Application.git/static/css/main.756af292.css",
+    "main.js": "/ymounika30/ReactJS-Application.git/static/js/main.dbe261c7.js",
+    "static/js/787.fad64071.chunk.js": "/ymounika30/ReactJS-Application.git/static/js/787.fad64071.chunk.js",
+    "index.html": "/ymounika30/ReactJS-Application.git/index.html",
+    "main.756af292.css.map": "/ymounika30/ReactJS-Application.git/static/css/main.756af292.css.map",
+    "main.dbe261c7.js.map": "/ymounika30/ReactJS-Application.git/static/js/main.dbe261c7.js.map",
+    "787.fad64071.chunk.js.map": "/ymounika30/ReactJS-Application.git/static/js/787.fad64071.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.dbe261c7.js"
+  ]
+}
